@@ -11,4 +11,4 @@ I chose about 4000 frames from the TV series, OVA, Movie to make the training se
 
 Graph: https://drive.google.com/open?id=14-GdL7iBol3l3fEiciniHGRyxf12AEC-
 
-Result: https://drive.google.com/open?id=14jMqRJWIvfuzfj9DteJ24bACfZPsrArx
+Result: https://drive.google.com/open?id=1Pw9qBxFttxba_vq4w0-KCudOV4OGavJC
